@@ -39,3 +39,7 @@ Custom Food Dataset with five food categories:
 
 ## Result
 The model predicts the food item and displays its estimated calorie content
+
+## Author
+Zerin Ameer 
+Oasis Infobyte Internship Project
